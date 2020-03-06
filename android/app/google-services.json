@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795434124173",
+    "firebase_url": "https://moyawimbackend.firebaseio.com",
+    "project_id": "moyawimbackend",
+    "storage_bucket": "moyawimbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795434124173:android:e8d8cdb49e2589a0f933c4",
+        "android_client_info": {
+          "package_name": "com.ahmad.main_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795434124173-fb6uk0v0jpsi4g34ftmb1b7uumvc6ls0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZt__1iaA8oFkW88RuDL6n3Bmj-vn8wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795434124173-fb6uk0v0jpsi4g34ftmb1b7uumvc6ls0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

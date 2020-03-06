@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "أحمد",
+    "lastName": "وهبي",
+    "job": "نجار"
+    "phoneNumber": "76507959",
+    "description": "المياوم هو من يقوم بعمل محدد مقابل سعر معين"
+  },
+  {
+    "firstName": "عمر",
+    "lastName": "كموني",
+    "job": "بناء"
+    "phoneNumber": "03887465",
+    "description": "المياوم هو من يقوم بعمل محدد مقابل سعر معين"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "الأدرع",
+    "job": "سنغري"
+    "phoneNumber": "83776453",
+    "description": "المياوم هو من يقوم بعمل محدد مقابل سعر معين"
+  },
+  {
+    "firstName": "علاء",
+    "lastName": "الصغير",
+    "job": "بلاط"
+    "phoneNumber": "03889464",
+    "description": "المياوم هو من يقوم بعمل محدد مقابل سعر معين"
+  },
+  {
+    "firstName": "عبد",
+    "lastName": "وهبي",
+    "job": "دهان"
+    "phoneNumber": "76443526",
+    "description": "المياوم هو من يقوم بعمل محدد مقابل سعر معين"
+  },
+]
